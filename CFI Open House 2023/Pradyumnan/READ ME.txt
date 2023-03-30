@@ -1,0 +1,3 @@
+In case that a good approximation of the theoretical value is not obtained initially when running the code, run it again. Some instances generate more accurate approximations. 
+
+If this is not satisfactory, increase the loop range from (-150,150) to (-200,200) or higher depending upon the accuracy desired.
