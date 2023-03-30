@@ -15,6 +15,7 @@ This is the GitHub Repository for the Centre for Innovation (CFI) Open House Pro
 - Mith
 - Nikhil
 - Pradyumnan
+- Praveen
 - Preethi
 - Sneha
 - Sudhakar
